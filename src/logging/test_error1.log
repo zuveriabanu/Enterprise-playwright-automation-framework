@@ -1,0 +1,105 @@
+2025-06-30T07:56:53+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-06-30T07:57:11+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Fdream-nosoftware-6720.my.salesforce.com%2Fone%2Fone.app&sid=00DWd000006yz0D%21AQEAQPnVowk5iF8NdObWV7W7M5PgNac4YHy…"[22m
+[2m    - waiting for" https://dream-nosoftware-6720.my.salesforce.com/one/one.app" navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.lightning.force.com/one/one.app"[22m
+
+2025-06-30T07:57:14+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-06-30T07:57:34+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for" https://dream-nosoftware-6720.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Fdream-nosoftware-6720.my.salesforce.com%2Fone%2Fone.app&sid=00DWd000006yz0D%21AQEAQOIRzMy6M8NsI84FwXkrd3hYbHV9ZVu…" navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Fdream-nosoftware-6720.my.salesforce.com%2Fone%2Fone.app&sid=00DWd000006yz0D%21AQEAQOIRzMy6M8NsI84FwXkrd3hYbHV9ZVu…"[22m
+[2m    - waiting for" https://dream-nosoftware-6720.my.salesforce.com/one/one.app" navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.lightning.force.com/one/one.app"[22m
+
+2025-06-30T07:57:35+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+
+2025-06-30T07:57:39+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Fdream-nosoftware-6720.my.salesforce.com%2Fone%2Fone.app&sid=00DWd000006yz0D%21AQEAQKF_bh4.SWw8pC.uU_z47Wz5_uXBLqZ…"[22m
+[2m    - waiting for" https://dream-nosoftware-6720.lightning.force.com/one/one.app" navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.lightning.force.com/one/one.app"[22m
+
+2025-06-30T07:58:07+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Fdream-nosoftware-6720.my.salesforce.com%2Fone%2Fone.app&sid=00DWd000006yz0D%21AQEAQDJP7q_ItJSyiHnKEWfDrt6MTrGCzv8…"[22m
+[2m    - waiting for" https://dream-nosoftware-6720.my.salesforce.com/one/one.app" navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.lightning.force.com/one/one.app"[22m
+
+2025-06-30T07:58:37+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Fdream-nosoftware-6720.my.salesforce.com%2Fone%2Fone.app&sid=00DWd000006yz0D%21AQEAQG.NffpsOuGSwVSivbDM94kO4K.eFwP…"[22m
+[2m    - waiting for" https://dream-nosoftware-6720.lightning.force.com/one/one.app" navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.lightning.force.com/one/one.app"[22m
+
+2025-06-30T07:59:01+05:30 [error]: Error clicking login button: Error: [31mTimed out 15000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByTitle('Service')
+Expected: visible
+Received: <element(s) not found>
+Call log:
+[2m  - Expect "toBeVisible" with timeout 15000ms[22m
+[2m  - waiting for getByTitle('Service')[22m
+[2m    - waiting for navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.file.force.com/secur/contentDoor?startURL=https%3A%2F%2Fdream-nosoftware-6720.my.salesforce.com%2Fone%2Fone.app&sid=00DWd000006yz0D%21AQEAQGBmFO7kHHuIacgqU3n6ywYNGhJ46GU…"[22m
+[2m    - waiting for" https://dream-nosoftware-6720.lightning.force.com/visualforce/recsession?sid=00DWd000006yz0D%21AQEAQJ0t3.nrf.KO93iFg3XJ9v4nN..ber2DVMhU9NdhiejdfZHCc3MHEuymjX3QZcyIy79fM2TvLB_b0DYocRycLlbN3QHe&inst=Wd…" navigation to finish...[22m
+[2m    - navigated to "https://dream-nosoftware-6720.lightning.force.com/one/one.app"[22m
+
